@@ -2106,8 +2106,8 @@ margin: 0 .5rem;
 /* ====================Sercces============ */
 
 .program{
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(../image/Length.png) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/Length.png) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(4,9,30,0.8)), to(rgba(4 9 30 / 50%))), url(../image/Length.png) no-repeat;
+  background: linear-gradient(rgba(4,9,30,0.8), rgba(4 9 30 / 50%)), url(../image/Length.png) no-repeat;
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
@@ -2209,8 +2209,8 @@ margin: 0 .5rem;
   .program{
   
   overflow: hidden;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(../image/width.webp) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/width.webp) no-repeat; 
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(4,9,30,0.8)), to(rgba(4 9 30 / 50%))), url(../image/width.webp) no-repeat;
+  background: linear-gradient(rgba(4,9,30,0.8), rgba(4 9 30 / 50%)), url(../image/width.webp) no-repeat; 
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
@@ -2532,7 +2532,7 @@ body:not(.dark-theme) main {
 }
 .plll{
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(../image/clientlength.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/clientlength.jpg) no-repeat;
+  background: linear-gradient(rgba(4,9,30,0.8), rgba(4 9 30 / 50%)), url(../image/clientlength.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
@@ -2541,7 +2541,7 @@ body:not(.dark-theme) main {
 @media screen and (min-width: 768px) {
   .plll{
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(../image/clientwidth.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/clientwidth.jpg) no-repeat;
+  background: linear-gradient(rgba(4,9,30,0.8), rgba(4 9 30 / 50%)), url(../image/clientwidth.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
